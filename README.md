@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains an API for compressing and sending images using FastAPI written in Python. The API converts a selected image to webpm and them compresses it further by encoding it with base64, while also having the option to apply extra compression methods such as making use of algorithms like zlib.
+This repository contains an API for compressing and sending images using FastAPI written in Python. The API converts a selected image to webpm and them compresses it further by encoding it with base64, while also having the option to apply extra compression methods such as algorithms like zlib.
 
 ## 📊 Comparison
 
