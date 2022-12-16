@@ -43,6 +43,11 @@ install dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
+run api:
+
+```bash
+uvicorn main:app
+```
 
 ## 📝 License
 
