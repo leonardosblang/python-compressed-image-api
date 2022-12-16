@@ -1,4 +1,4 @@
-# python-compressed-image-api 
+# Python API for compressing images
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" />
