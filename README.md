@@ -12,11 +12,11 @@ This repository contains an API for compressing and sending images using FastAPI
 
 We compare the original image (in png and jpeg format) to the webp format, which is a modern image format that provides superior compression for image files while still maintaining quality.
 
-            | PNG           | WEBP            |
+| Format    | PNG           | WEBP            |
 |-----------|---------------|-----------------|
 | Size      | 114KB         | 58KB            |
 
-            | JPG           | Compressed WEBP |
+| Format    | JPG           | Compressed WEBP |
 |-----------|---------------|-----------------|
 | Size      | 14.7MB        | 791KB           |
 
