@@ -20,7 +20,7 @@ We compare the original image (in png and jpeg format) to the webp format, which
 |-----------|---------------|-----------------|
 | Size      | 14.7MB        | 791KB           |
 
-(Normal files are stored in images/ , compressed ones are in results/ )
+(Normal files used for testing are in the images directory , compressed ones are in the results directory directory)
 
 ## 🏁 Getting Started
 
